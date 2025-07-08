@@ -9,7 +9,7 @@
 /* Imports */
 @import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
 /* - - - Default - - - */
-.logo {
+#logo {
     height: 0px;
 }
 .wufoo input {
