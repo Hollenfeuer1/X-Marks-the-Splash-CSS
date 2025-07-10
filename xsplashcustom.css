@@ -9,6 +9,9 @@
 /* Imports */
 @import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
 /* - - - Default - - - */
+form.wufoo {
+ padding: 2em !important;
+}
 #logo {
     height: 0px;
 }
@@ -16,6 +19,13 @@
     width:  100%;
     height: 25px;
     border-radius: 5px;
+}
+.wufoo li {
+ padding-bottom: 0 !important;
+}
+.info {
+ margin-bottom: 0 !important;
+ padding-bottom: 0.5em !important;
 }
 input.checkbox {
     width: 13px !important;
@@ -36,7 +46,7 @@ input.checkbox {
 .wufoo .info h2 {
     font-family: 'Fjalla One', sans-serif;
     text-transform: uppercase;
-    font-size: 4em !important;
+    font-size: 3em !important;
     margin: 0 auto;
 }
 .wufoo {
